@@ -186,7 +186,7 @@ final class Versions
   'symfony/process' => 'v5.1.8@f00872c3f6804150d6a0f73b4151daab96248101',
   'symfony/stopwatch' => 'v5.1.8@3d9f57c89011f0266e6b1d469e5c0110513859d5',
   'theseer/tokenizer' => '1.2.0@75a63c33a8577608444246075ea0af0d052e452a',
-  'hyperf/hyperf-skeleton' => 'dev-master@26d693651c777ba63d0a8bd079e1d66760562c02',
+  'hyperf/hyperf-skeleton' => 'dev-master@c00621677663f5c65b56fbc1ff4b35473e44bd3a',
 );
 
     private function __construct()
